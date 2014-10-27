@@ -1,7 +1,7 @@
 todo-webapp-by-nelk
 ===================
 
-A simple TODO webapp with NodeJS, MongoDB &amp; Angular
+A simple TODO webapp with NodeJS & Angular
 
 Hosted here ;)
 
